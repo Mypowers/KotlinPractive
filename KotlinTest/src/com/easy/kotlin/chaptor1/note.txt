@@ -1,6 +1,4 @@
 为feature分支做测试
-<<<<<<< HEAD
 AAAAAAA
-=======
 111111
->>>>>>> master-feature
+
